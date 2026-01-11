@@ -1,3 +1,9 @@
+SECRET_KEY = 'dummy-secret-key'
+
+INSTALLED_APPS = []
+
+DEBUG = True
+
 INSTALLED_APPS = [
     ...
     'listings',
